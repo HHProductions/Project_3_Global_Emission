@@ -25,8 +25,9 @@ Execute app_flask.py from the root of the repository
  ```sh 
 python3 app_flask.py
 ```
+Go to http://127.0.0.1:5000/ to  start  main html page.
 
-    API :
+    other APIs used in the background :
 
     http://127.0.0.1:5000/api/v1.0/emissions 
     http://127.0.0.1:5000/api/polygons 
